@@ -1,7 +1,11 @@
 Accessing-VM-Using-Cloud NAT
 
 Architecture:
-  ![image](https://user-images.githubusercontent.com/85304071/144811973-e3c65fed-9a6e-4508-a24c-a79f10f7900f.png)
+
+ 
+ ![image](https://user-images.githubusercontent.com/85304071/144811973-e3c65fed-9a6e-4508-a24c-a79f10f7900f.png)
+
+
 
 
 
