@@ -66,8 +66,8 @@ Output:
 
 ![image](https://user-images.githubusercontent.com/85304071/144811095-3b6380b6-31c6-4430-ac66-0ed9537feb26.png)
 
+![image](https://user-images.githubusercontent.com/85304071/144811271-f49db864-49a4-4e02-b595-ad40076a62e4.png)
 
-![image](https://user-images.githubusercontent.com/85304071/144811120-24261651-4525-4a8c-80ce-61d118b17c2c.png)
 
  
 
