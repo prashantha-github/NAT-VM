@@ -52,6 +52,44 @@ Deployment:
   -	> terraform apply
 
 
+Output:
+
+ 
+![image](https://user-images.githubusercontent.com/85304071/144810967-e7f8fa39-e766-4037-a065-0b660d446d8d.png)
+
+
+![image](https://user-images.githubusercontent.com/85304071/144811016-6643ca07-8216-4fbd-bd2c-6d54c5da3011.png)
+
+
+![image](https://user-images.githubusercontent.com/85304071/144811055-01c569f6-85cc-4d2b-a6ef-57c6b6627b39.png)
+
+
+![image](https://user-images.githubusercontent.com/85304071/144811095-3b6380b6-31c6-4430-ac66-0ed9537feb26.png)
+
+
+![image](https://user-images.githubusercontent.com/85304071/144811120-24261651-4525-4a8c-80ce-61d118b17c2c.png)
+
+ 
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
 
 
 
